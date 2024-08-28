@@ -7362,15 +7362,6 @@ body.dark-mode footer {
 /*Responsive*/
 
 
-/*peter*/
-
-@media (max-width: 1285px) {
-  /* .sofa {
-    position: absolute;
-    top: 3995px;
-  } */
-}
-
 @media (max-width: 1190px) {
   .footer-options {
     flex-direction: column;
@@ -7386,15 +7377,6 @@ body.dark-mode footer {
     flex-direction: row;
     justify-content: center;
   }
-
-  /* .sofa {
-    position: absolute;
-    width: 80%;
-    max-width: 250px;
-    margin: 20px auto;
-    top: 3965px;
-    right: 45px;
-  } */
 
   .sofa {
     position: absolute;
@@ -7421,41 +7403,6 @@ body.dark-mode footer {
     text-align: center;
   }
 }
-
-/* @media (max-width: 1085px) {
-  .sofa {
-    position: absolute;
-    top: 4345px;
-  }
-} */
-
-/* @media (max-width: 1030px) {
-  .sofa {
-    position: absolute;
-    top: 4405px;
-  }
-} */
-
-/* @media (max-width: 1050px) {
-  .sofa {
-    position: absolute;
-    top: 4405px;
-  }
-} */
-
-/* @media (max-width: 1024px) {
-  .sofa {
-    position: absolute;
-    top: 4680px;
-  }
-} */
-
-/* @media (max-width: 1008px) {
-  .sofa {
-    position: absolute;
-    top: 4680px;
-  }
-} */
 
 @media (max-width: 997px) {
   .sofa {
