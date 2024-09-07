@@ -7361,7 +7361,18 @@ body.dark-mode footer {
 }
 
 /*Responsive*/
+@media(max-width: 1920px) {
+  .label {
+    padding-left: 17px;
+  }
+}
 
+@media(max-width: 1285px)
+{
+  .label {
+    padding-left: 38px;
+  }
+}
 
 @media (max-width: 1190px) {
   .footer-options {
