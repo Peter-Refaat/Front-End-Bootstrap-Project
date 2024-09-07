@@ -7183,6 +7183,7 @@ input::placeholder {
   transition: text-shadow 0.5s ease;
   position: relative;
   left: -98px;
+  padding: 0px 38px;
 }
 
 .label:hover {
